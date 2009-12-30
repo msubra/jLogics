@@ -1,0 +1,2 @@
+A stack to be used during the evaluation of the
+expression.

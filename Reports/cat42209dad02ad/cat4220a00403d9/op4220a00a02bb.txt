@@ -1,0 +1,5 @@
+This functions will check the Rule as follows Connections can only be
+made if 1. Source is InputNode and target is InputNode 2. Source is
+OutputNode and target is InputNode 3. Source is ByPassNode && target is
+another ByPassNode
+

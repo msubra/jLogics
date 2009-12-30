@@ -1,0 +1,3 @@
+when mouse is dragged in the circuit component, then the scrolling effect
+takes place in the circuit hence the circuit can be scrolled.
+

@@ -1,0 +1,2 @@
+An array containing all the constants found
+in the expression.

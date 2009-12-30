@@ -1,0 +1,4 @@
+@param g
+@param s
+get the boundaryvalues for the shape
+

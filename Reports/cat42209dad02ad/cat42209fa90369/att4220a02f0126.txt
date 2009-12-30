@@ -1,0 +1,1 @@
+initialise the canmove variable to false

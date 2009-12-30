@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+<!-- Font styles -->
+<entry key="FONT">Arial Unicode MS</entry>
+<entry key="SIZE">14</entry>
+
+<!-- Menu, Button, Label texts are placed her -->
+<entry key="tamil">தமிழ்</entry>
+<entry key="english">ஆங்கிலம்</entry>
+<entry key="language">மொழி</entry>
+<entry key="file">கோப்பு</entry>
+<entry key="save">சேமி</entry>
+<entry key="saveas">வேறு பெயரில் சேமி</entry>
+<entry key="exit">வெளியேறு</entry>
+<entry key="orgate">ஆர்</entry>
+<entry key="andgate">அண்டு</entry>
+<entry key="notgate">நாட்</entry>
+<entry key="nandgate">நேண்ட்</entry>
+<entry key="norgate">நார்</entry>
+<entry key="xorgate">எக்சார்</entry>
+<entry key="gate">கேட்</entry>
+<entry key="new">புதிய</entry>
+<entry key="simulate">இயக்கு</entry>
+<entry key="normal">நார்மல்</entry>
+<entry key="open">கோப்பு திறக்கவும்</entry>
+<entry key="tools">டுல்கள்</entry>
+<entry key="equ_to_cir">சமனஂபாடஂடிலிருநஂது சரஂகஂயூடஂ வரைக</entry>
+<entry key="align_cir">அலைனஂ செயஂயவுமஂ</entry>
+<entry key="gen_truth_table">உண்மை அட்டவனையை உ௫வாக்க</entry>
+<entry key="want_exit">வெளீயேற வேணஂடுமா?</entry>
+<entry key="yes">ஆமஂ</entry>
+<entry key="no">இலஂலை</entry>
+<entry key="label">பெயரஂ</entry>
+<entry key="inputs">உளஂளீடுகளஂ</entry>
+<entry key="outputs">வெளியீடுகளஂ</entry>
+<entry key="pulse">பலஂஸஂ/நொடி</entry>
+<entry key="type">வகை</entry>
+<entry key="dc">டீசி</entry>
+<entry key="led">எலஂலீடி</entry>
+<entry key="clock">ஆட்டோ க்ளாக்</entry>
+<entry key="tools">டூலஂஸஂ</entry>
+<entry key="conv_mod">மாடஂயுலஂலாக மாறஂறவுமஂ</entry>
+<entry key="reduce">சமன்பாட்டை சுருக்குக</entry>
+<entry key="make_pic">படமாக்கவும்</entry>
+<entry key="show_bits">பிட்ஸ்களை காட்டு</entry>
+<entry key="manual_clock">மேனுவல் க்ளாக்</entry>
+
+
+<!-- Error Messages -->
+<entry key="ERR001">வெளியிட்டை உள்ளிட்டுடன் இணைக்கவும்</entry>
+<entry key="ERR002">உண்மை அட்டவனையை உ௫வாக்க இயலவில்லை</entry>
+<entry key="ERR003">சமன்பாட்டில் பிழை</entry>
+<entry key="ERR004">இயக்குவதை நிறுத்தினால் திருத்தலாம்</entry>
+<entry key="ERR005">முன்பே இணைக்கப்பட்டுள்ளது</entry>
+<entry key="ERR006">உள்ளிட்டில் தவறு எற்பட்டுள்ளது</entry>
+<entry key="ERR007">கோப்புகளை காணவில்லை</entry>
+
+</properties>

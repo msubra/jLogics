@@ -1,0 +1,2 @@
+This Function can be used in child classes for implementing Mouseclick
+

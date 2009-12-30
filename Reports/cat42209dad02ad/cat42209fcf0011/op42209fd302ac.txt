@@ -1,0 +1,2 @@
+like swap, use single element array
+

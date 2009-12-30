@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+
+<!-- Font styles -->
+<entry key="FONT">Dialog</entry>
+<entry key="SIZE">12</entry>
+
+<!-- Menu, Button, Label texts are placed her -->
+<entry key="tamil">Tamil</entry>
+<entry key="english">English</entry>
+<entry key="language">Language</entry>
+<entry key="file">File</entry>
+<entry key="save">Save</entry>
+<entry key="saveas">Save As</entry>
+<entry key="close">Close</entry>
+<entry key="exit">Exit</entry>
+<entry key="orgate">OR</entry>
+<entry key="andgate">AND</entry>
+<entry key="notgate">NOT</entry>
+<entry key="nandgate">NAND</entry>
+<entry key="norgate">NOR</entry>
+<entry key="xorgate">XOR</entry>
+<entry key="gate">Gate</entry>
+<entry key="new">New</entry>
+<entry key="simulate">Simulate</entry>
+<entry key="normal">Normal</entry>
+<entry key="open">Open</entry>
+<entry key="tools">Tools</entry>
+<entry key="equ_to_cir">Equation to Circuit</entry>
+<entry key="align_cir">Align Circuit</entry>
+<entry key="gen_truth_table">Generate Truthtable</entry>
+<entry key="want_exit">Do you want to Exit?</entry>
+<entry key="yes">Yes</entry>
+<entry key="no">No</entry>
+<entry key="label">Label</entry>
+<entry key="inputs">Inputs</entry>
+<entry key="outputs">Outputs</entry>
+<entry key="pulse">Pulse/Second</entry>
+<entry key="type">Type</entry>
+<entry key="dc">DC</entry>
+<entry key="led">LED</entry>
+<entry key="clock">Clock</entry>
+<entry key="conv_mod">Convert to Module</entry>
+<entry key="reduce">Reduce Equation</entry>
+<entry key="make_pic">Make Picture</entry>
+<entry key="show_bits">Show Bits</entry>
+<entry key="manual_clock">Manual Clock</entry>
+<!-- Error Messages -->
+
+<entry key="ERR001">Connect Only Input With Output</entry>
+<entry key="ERR002">Cannot Generate Truth Table</entry>
+<entry key="ERR003">Error In Equation</entry>
+<entry key="ERR004">Stop Simulation To Edit</entry>
+<entry key="ERR005">Already Connected</entry>
+<entry key="ERR006">Incorrect Input</entry>
+<entry key="ERR007">File Not Found</entry>
+
+</properties>

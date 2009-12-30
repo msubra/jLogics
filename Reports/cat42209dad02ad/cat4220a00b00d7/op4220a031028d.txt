@@ -1,0 +1,3 @@
+Returns all the components present in the circuit
+@return
+

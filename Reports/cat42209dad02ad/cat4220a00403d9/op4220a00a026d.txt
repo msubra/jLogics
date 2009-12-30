@@ -1,0 +1,6 @@
+Define all events that should happen when the mouse is released on a
+Digital Object
+1. Get the object at the relased location 2. check wheather it is not
+null 3. send the mouseReleased event to the object 4. repaint the drawing
+area
+

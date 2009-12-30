@@ -1,0 +1,1 @@
+Refers to the drawing pad on which the action is performed

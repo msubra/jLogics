@@ -1,0 +1,3 @@
+store the location where the mouse is pressed canMove falg will be TRUE
+for one click and FALSE for another click
+

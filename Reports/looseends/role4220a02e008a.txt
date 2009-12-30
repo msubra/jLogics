@@ -1,0 +1,1 @@
+defines an object DEFAULT_CURSOR DEFAULT_CURSOR defines CROSSHAIR_CURSOR

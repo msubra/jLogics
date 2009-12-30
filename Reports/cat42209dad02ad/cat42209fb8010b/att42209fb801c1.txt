@@ -1,0 +1,2 @@
+A translated version of the expression, containing
+stack operations that compute the value of the expression.

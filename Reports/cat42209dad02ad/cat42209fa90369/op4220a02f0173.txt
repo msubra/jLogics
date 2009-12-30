@@ -1,0 +1,3 @@
+This function will find any object is avaiable in the given Point pad
+@return Returns a DigitalShape if found any or NULL if nothing found
+

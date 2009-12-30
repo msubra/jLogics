@@ -1,0 +1,16 @@
+public DigitalCircuit toModule() {
+DigitalCircuit cir = new DigitalCircuit(this);
+for (int i = 0; i < cir.inputs.size(); i++) {
+DC dc = (DC) cir.inputs.get(i);
+dc.MIN_INPUTS = 1;
+dc.changeInput(1);
+}
+for (int i = 0; i < cir.outputs.size(); i++) {
+LED led = (LED) cir.outputs.get(i);
+led.MAX_INPUTS = 1;
+led.changeOutput(1);
+}
+return cir;
+}
+sets drawingpad to the circuit on which to be drawn
+

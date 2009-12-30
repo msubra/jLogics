@@ -1,0 +1,4 @@
+@param g
+implements the Graphics2D if signal is true then color of
+signal is set to green else it is set to bordercolor
+

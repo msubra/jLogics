@@ -1,0 +1,3 @@
+move the object to the location where mouse moves This will function only
+if canMove flag is set
+

@@ -1,0 +1,2 @@
+@returns Wheather this node is already connected to some other sources
+

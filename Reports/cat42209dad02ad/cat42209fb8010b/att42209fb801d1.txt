@@ -1,0 +1,4 @@
+An array containing all the constants found
+in the expression.
+values for code array; values >= 0 are indices
+into constants array

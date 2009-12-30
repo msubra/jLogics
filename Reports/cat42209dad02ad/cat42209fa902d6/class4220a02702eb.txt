@@ -1,0 +1,2 @@
+This is the Spinner Model for changing Inputs and Outputs
+@author maheshexp

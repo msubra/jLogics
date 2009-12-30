@@ -1,0 +1,2 @@
+This function will draw the body of the object, inputs and output nodes
+

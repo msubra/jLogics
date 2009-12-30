@@ -1,0 +1,9 @@
+@author Administrator
+TODO To change the template for this generated type comment go to Window -
+Preferences - Java - Code Style - Code Templates
+LICENSE NOTES: The original version of this source code written by David Eck,
+8 October 1998. I have made some minor enhancements. As with the original,
+this code is distributed with no restrictions or warranty. Do whatever you
+want with it and take full responsibility for the results.
+Since I got my hands on it I've: Added a 3rd variable. Added "round()"
+funtion Fixed deprecation errors.

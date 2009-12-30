@@ -1,0 +1,4 @@
+simulate will get the current signal , inverts it and sets to the object
+and starts simulating i.e start telling the output nodes that the signal
+is changed
+

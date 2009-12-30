@@ -1,0 +1,195 @@
+<?xml version='1.0'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+
+  <head>
+    <title>XStream - Java to XML serialization, and back again</title>
+    <link href='style.css' rel='stylesheet' type='text/css' />
+    
+  </head>
+
+  <body>
+
+    <div id='banner'>
+      <a href='index.html'>
+        <img src='logo.gif' id='logo' alt='XStream' />
+      </a>
+    </div>
+
+    
+      <div class='Content3Column' id='center'>
+        <div id='content'>
+          <h1 class='FirstChild'>About XStream</h1>
+        <p>XStream is a simple library to serialize objects to XML and back again.</p>
+        <h1>Features</h1>
+        <ul>
+        <li>
+            <b>Ease of use.</b> A high level facade is supplied that simplifies common use cases.</li>
+        <li>
+            <b>No mappings required.</b> Custom objects can be serialized without need for specifying mappings.</li>
+        <li>
+            <b>Performance.</b> Speed and low memory footprint are a crucial part of the design, making it suitable for
+        large object graphs or systems with high message throughput.</li>
+        <li>
+            <b>Clean XML.</b> No information is duplicated that can be obtained via reflection. This results
+        in XML that is easier to read for humans and more compact than native Java serialization.</li>
+        <li>
+            <b>Requires no modifications to objects.</b> Serializes internal fields, including private and
+        final. Supports non-public and inner classes. Classes are not required to have default constructor.</li>
+        <li>
+            <b>Full object graph support.</b> Duplicate references encountered in the object-model will
+        be maintained. Supports circular references.</li>
+        <li>
+            <b>Integrates with other XML APIs.</b> By implementing an interface, XStream can serialize
+        directly to/from any tree structure (not just XML).</li>
+        <li>
+            <b>Customizable conversion stategies.</b> Strategies can be registered allowing customization of how
+        particular types are represented as XML.</li>
+        <li>
+            <b>Error messages.</b> When an exception occurs due to malformed XML, detailed diagnostics are provided
+        to help isolate and fix the problem.</li>
+    </ul>
+        <h1>Typical Uses</h1>
+        <ul>
+        <li>
+            <b>Persistence</b>
+          </li>
+        <li>
+            <b>Transport</b>
+          </li>
+        <li>
+            <b>Configuration</b>
+          </li>
+    </ul>
+        <h1>Getting Started</h1>
+        <ul>
+      <li>
+            <a href='download.html'>Download it</a>.</li>
+      <li>
+            <a href='tutorial.html'>Use it</a>.</li>
+    </ul>
+    	</div>
+	    <div class='Meta'>
+	      <p>
+          <a href='http://cvs.xstream.codehaus.org/xstream/website/content/index.html'>Document History</a>
+        </p>
+	    </div>
+      </div>
+    
+
+    
+
+    <div class='SidePanel' id='left'>
+      <div class='MenuGroup'>
+        <h1>Software</h1>
+        <ul>
+          <li>
+            <a href='download.html'>Download</a>
+          </li>
+          <li>
+            <a href='changes.html'>Change History</a>
+          </li>
+          <li>
+            <a href='license.html'>Project License</a>
+          </li>
+          <li>
+            <a href='versioning.html'>About Versioning</a>
+          </li>
+          <li>
+            <a href='repository.html'>CVS Access</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class='MenuGroup'>
+        <h1>Documentation</h1>
+        <ul>
+          <li>
+            <a href='tutorial.html'>Two Minute Tutorial</a>
+          </li>
+          <li>
+            <a href='faq.html'>Frequently Asked Questions</a>
+          </li>
+          <li>
+            <a href='converters.html'>Guide to Converters</a>
+          </li>
+          <li>
+            <a href='javadoc/index.html'>JavaDoc</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class='MenuGroup'>
+        <h1>User Support</h1>
+        <ul>
+          <li>
+            <a href='mailing-lists.html'>Mailing Lists</a>
+          </li>
+          <li>
+            <a href='http://jira.codehaus.org/secure/BrowseProject.jspa?id=10230'>Issue Tracker</a>
+          </li>
+          <li>
+            <a href='news.html'>News</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class='MenuGroup'>
+        <h1>Development</h1>
+        <ul>
+          <li>
+            <a href='how-to-contribute.html'>How to Contribute</a>
+          </li>
+          <li>
+            <a href='team.html'>Development Team</a>
+          </li>
+        </ul>
+      </div>
+
+            <!--
+      <div class="MenuGroup">
+        <h1>Supporting Sites</h1>
+        <ul>
+          <li><a href="http://joe.truemesh.com/">Joe Walnes</a></li>
+          <li><a href="http://www.thoughtworks.com/">ThoughtWorks</a></li>
+          <li><a href="http://www.codehaus.org/">Codehaus</a></li>
+        </ul>
+      </div>
+      -->
+    </div>
+
+    
+      <div class='SidePanel' id='right'>
+        <div class='NewsGroup'>
+          <h1>Latest Version: 1.0.2</h1>
+          <p class='NewsMore'>
+          <a href='download.html'>Download page...</a>
+        </p>
+        </div>
+
+        <div class='NewsGroup'>
+          <h1>
+          <a href='news.html'>News...</a>
+        </h1>
+          <div class='NewsItem'>
+      <p class='NewsDate'>Aug 7, 2004</p>
+      <p class='NewsText'>XStream 1.0.2 released. Minor improvements, including:</p>
+      <ul>
+          <li>Many more converters for common Java types.</li>
+          <li>Fields of type byte[] are now encoded using Base64.</li>
+          <li>Improved support for using XStream in environments where classes are hot-redeployed.</li>
+      </ul>
+      <p>View the complete <a href='changes.html'>change log</a> and <a href='download.html'>download</a>.</p>
+    </div>
+        <div class='NewsItem'>
+      <p class='NewsDate'>Aug 4, 2004</p>
+      <p class='NewsText'>Guide to Converters</p>
+      <p>
+            <a href='converters.html'>New Converter documentation</a>.</p>
+    </div>
+                  <!-- <p class="NewsMore"><a href="news.rdf">News feed (XML)</a></p> -->
+        </div>
+      </div>
+    
+  </body>
+</html>

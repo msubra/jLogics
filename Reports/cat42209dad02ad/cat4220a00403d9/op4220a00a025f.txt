@@ -1,0 +1,13 @@
+Define all events that should happen when the mouse is pressed on a
+Digital Object
+1. Get the object at the clicked location 2. update the details about the
+selected object 3. if the circuit is in the adding mode then add
+components to the circuit 4. if selected object is GATE then make it work
+under SIMULATION mode 5. if selected Object is NODE then if Not in
+Connecting Mode and clicked in the output node make ready for conection.
+if already in connecting mode then checkRules for making connection. if
+rules satisfied then make connection, else discard connection 6.set the
+correct mode occordingly 7. if selected is none of the objects above, and
+it is under connection mode then make BYPASS nodes for connections
+@param e
+

@@ -1,0 +1,3 @@
+Sets a Label to the Gate
+@param string
+

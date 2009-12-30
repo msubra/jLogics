@@ -1,0 +1,1692 @@
+GUI
+../../webviewer/18.jpg
+dgm4220a49e03a6.htm
+
+
+
+(
+)
+DigitalSpinner ( PropertiesWindow1 )
+../../webviewer/17.jpg
+class4220a029002c.htm
+
+
+
+(
+name
+../../webviewer/33.jpg
+att4220a02900a9.htm
+
+
+
+(
+)
+DigitalSpinner
+../../webviewer/34.jpg
+op4220a02900ea.htm
+
+
+
+(
+)
+update
+../../webviewer/34.jpg
+op4220a02900ec.htm
+
+
+
+(
+)
+stateChanged
+../../webviewer/34.jpg
+op4220a02900f7.htm
+op4220a02900f7.txt
+
+
+(
+)
+thePropertiesWindow1 ( PropertiesWindow1 )
+../../webviewer/82.jpg
+../../looseends/role4220a028030a.htm
+
+
+
+thePropertiesWindow1 ( PropertiesWindow1 )
+../../webviewer/82.jpg
+../../looseends/role4220a0280359.htm
+
+
+
+thePropertiesWindow1 ( PropertiesWindow1 )
+../../webviewer/82.jpg
+../../looseends/role4220a02803a7.htm
+
+
+
+current ( Gate )
+../../webviewer/82.jpg
+../../looseends/role4220a02900e8.htm
+
+
+
+)
+DigitalTextBox ( PropertiesWindow )
+../../webviewer/17.jpg
+class4220a02703e5.htm
+class4220a02703e5.txt
+
+
+(
+DigitalTextBox
+../../webviewer/34.jpg
+op4220a02800c7.htm
+
+
+
+(
+)
+keyPressed
+../../webviewer/34.jpg
+op4220a02800c8.htm
+op4220a02800c8.txt
+
+
+(
+)
+keyReleased
+../../webviewer/34.jpg
+op4220a02800db.htm
+op4220a02800db.txt
+
+
+(
+)
+keyTyped
+../../webviewer/34.jpg
+op4220a02800e8.htm
+op4220a02800e8.txt
+
+
+(
+)
+setObject
+../../webviewer/34.jpg
+op4220a02800f6.htm
+op4220a02800f6.txt
+
+
+(
+)
+thePropertiesWindow ( PropertiesWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a0270145.htm
+
+
+
+object ( Properties )
+../../webviewer/82.jpg
+../../looseends/role4220a02800bb.htm
+
+
+
+)
+DigitalWindow ( DigitalWindow )
+../../webviewer/17.jpg
+class4220a0060136.htm
+
+
+
+(
+DigitalWindow
+../../webviewer/34.jpg
+op4220a01c000f.htm
+
+
+
+(
+)
+getDrawingPad
+../../webviewer/34.jpg
+op4220a01c0010.htm
+
+
+
+(
+)
+focusGained
+../../webviewer/34.jpg
+op4220a01c001b.htm
+
+
+
+(
+)
+focusLost
+../../webviewer/34.jpg
+op4220a01c002c.htm
+
+
+
+(
+)
+theMDIWindow ( MDIWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a021005b.htm
+
+
+
+theFileOpenAction ( FileOpenAction )
+../../webviewer/82.jpg
+../../looseends/role4220a0060165.htm
+
+
+
+theFileSaveAction ( FileSaveAction )
+../../webviewer/82.jpg
+../../looseends/role4220a0070099.htm
+
+
+
+pad ( DrawingPad )
+../../webviewer/82.jpg
+../../looseends/role4220a01c000d.htm
+
+
+
+pane ( Container )
+../../webviewer/82.jpg
+../../looseends/role4220a01b03b8.htm
+
+
+
+)
+DrawingPad ( DrawingPad )
+../../webviewer/17.jpg
+class42209fa902d8.htm
+
+
+
+(
+NORMAL
+../../webviewer/30.jpg
+att4220a01803b6.htm
+
+
+
+(
+)
+MOVING
+../../webviewer/30.jpg
+att4220a01803b7.htm
+
+
+
+(
+)
+CONNECTING
+../../webviewer/30.jpg
+att4220a01803c5.htm
+
+
+
+(
+)
+ADDING
+../../webviewer/30.jpg
+att4220a01803d5.htm
+
+
+
+(
+)
+SIMULATING
+../../webviewer/30.jpg
+att4220a01803d6.htm
+
+
+
+(
+)
+mode
+../../webviewer/33.jpg
+att4220a019002b.htm
+
+
+
+(
+)
+gateType
+../../webviewer/33.jpg
+att4220a019002c.htm
+
+
+
+(
+)
+DrawingPad
+../../webviewer/34.jpg
+op4220a019012a.htm
+
+
+
+(
+)
+add
+../../webviewer/34.jpg
+op4220a0190135.htm
+
+
+
+(
+)
+paint
+../../webviewer/34.jpg
+op4220a0190137.htm
+
+
+
+(
+)
+resetMode
+../../webviewer/34.jpg
+op4220a0190145.htm
+
+
+
+(
+)
+setMode
+../../webviewer/34.jpg
+op4220a0190154.htm
+
+
+
+(
+)
+isConnectingMode
+../../webviewer/34.jpg
+op4220a0190164.htm
+
+
+
+(
+)
+isMovingMode
+../../webviewer/34.jpg
+op4220a0190165.htm
+
+
+
+(
+)
+isNormalMode
+../../webviewer/34.jpg
+op4220a0190173.htm
+
+
+
+(
+)
+isSimulatingMode
+../../webviewer/34.jpg
+op4220a0190174.htm
+
+
+
+(
+)
+isAddingMode
+../../webviewer/34.jpg
+op4220a0190175.htm
+
+
+
+(
+)
+getCircuit
+../../webviewer/34.jpg
+op4220a0190183.htm
+op4220a0190183.txt
+
+
+(
+)
+setCircuit
+../../webviewer/34.jpg
+op4220a0190192.htm
+
+
+
+(
+)
+setGateType
+../../webviewer/34.jpg
+op4220a0190194.htm
+op4220a0190194.txt
+
+
+(
+)
+getGateType
+../../webviewer/34.jpg
+op4220a01901a3.htm
+
+
+
+(
+)
+getGate
+../../webviewer/34.jpg
+op4220a01901b2.htm
+
+
+
+(
+)
+getName
+../../webviewer/34.jpg
+op4220a01901c1.htm
+
+
+
+(
+)
+getImage
+../../webviewer/34.jpg
+op4220a01901d1.htm
+
+
+
+(
+)
+theDigitalWindow ( DigitalWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a01b03e5.htm
+
+
+
+theDigitalShape ( DigitalShape )
+../../webviewer/82.jpg
+../../looseends/role4220a02e0184.htm
+../../looseends/role4220a02e0184.txt
+
+
+theMouseSensorAction ( MouseSensorAction )
+../../webviewer/82.jpg
+../../looseends/role4220a00a0193.htm
+../../looseends/role4220a00a0193.txt
+
+
+theScrollSensor ( ScrollSensor )
+../../webviewer/82.jpg
+../../looseends/role4220a00b008a.htm
+../../looseends/role4220a00b008a.txt
+
+
+theDigitalCircuit ( DigitalCircuit )
+../../webviewer/82.jpg
+../../looseends/role4220a0310210.htm
+
+
+
+theLoadButton ( LoadButton )
+../../webviewer/82.jpg
+../../looseends/role4220a04103a7.htm
+
+
+
+bimg ( BufferedImage )
+../../webviewer/82.jpg
+../../looseends/role4220a01900f9.htm
+
+
+
+circuit ( DigitalCircuit )
+../../webviewer/82.jpg
+../../looseends/role4220a0190128.htm
+
+
+
+current ( DigitalShape )
+../../webviewer/82.jpg
+../../looseends/role4220a019005d.htm
+
+
+
+fnt ( Font )
+../../webviewer/82.jpg
+../../looseends/role4220a01900ab.htm
+
+
+
+mouse ( MouseSensorAction )
+../../webviewer/82.jpg
+../../looseends/role4220a019001e.htm
+
+
+
+)
+FreqencySpinButton ( PropertiesWindow )
+../../webviewer/17.jpg
+class4220a0270201.htm
+
+
+
+(
+FreqencySpinButton
+../../webviewer/34.jpg
+op4220a02702cb.htm
+
+
+
+(
+)
+update
+../../webviewer/34.jpg
+op4220a02702cd.htm
+
+
+
+(
+)
+stateChanged
+../../webviewer/34.jpg
+op4220a02702dc.htm
+
+
+
+(
+)
+thePropertiesWindow ( PropertiesWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02701e2.htm
+
+
+
+gate ( Clock )
+../../webviewer/82.jpg
+../../looseends/role4220a02702be.htm
+
+
+
+)
+InputOutputSpinButton ( PropertiesWindow )
+../../webviewer/17.jpg
+class4220a02702eb.htm
+class4220a02702eb.txt
+
+
+(
+forInput
+../../webviewer/33.jpg
+att4220a0270377.htm
+
+
+
+(
+)
+step
+../../webviewer/33.jpg
+att4220a02703a9.htm
+
+
+
+(
+)
+InputOutputSpinButton
+../../webviewer/34.jpg
+op4220a02703b5.htm
+
+
+
+(
+)
+update
+../../webviewer/34.jpg
+op4220a02703b7.htm
+
+
+
+(
+)
+update
+../../webviewer/34.jpg
+op4220a02703c6.htm
+
+
+
+(
+)
+update
+../../webviewer/34.jpg
+op4220a02703c8.htm
+
+
+
+(
+)
+stateChanged
+../../webviewer/34.jpg
+op4220a02703d6.htm
+
+
+
+(
+)
+thePropertiesWindow ( PropertiesWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02700a9.htm
+
+
+
+thePropertiesWindow ( PropertiesWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02700f7.htm
+
+
+
+gate ( Gate )
+../../webviewer/82.jpg
+../../looseends/role4220a02703a7.htm
+
+
+
+)
+MDIWindow ( MDIWindow )
+../../webviewer/17.jpg
+class4220a020023e.htm
+class4220a020023e.txt
+
+
+(
+MDIWindow
+../../webviewer/34.jpg
+op4220a021006a.htm
+
+
+
+(
+)
+initToolbars
+../../webviewer/36.jpg
+op4220a021006b.htm
+
+
+
+(
+)
+getDrawingPad
+../../webviewer/34.jpg
+op4220a021006c.htm
+
+
+
+(
+)
+initDesktops
+../../webviewer/36.jpg
+op4220a0210079.htm
+
+
+
+(
+)
+addWindow
+../../webviewer/34.jpg
+op4220a021007a.htm
+
+
+
+(
+)
+removeWindow
+../../webviewer/34.jpg
+op4220a021008a.htm
+
+
+
+(
+)
+getPropertyWindow
+../../webviewer/34.jpg
+op4220a2b7021f.htm
+
+
+
+(
+)
+getModuleWindow
+../../webviewer/34.jpg
+op4220a2b70220.htm
+
+
+
+(
+)
+theMain ( Main )
+../../webviewer/82.jpg
+../../looseends/role4220a04802fb.htm
+
+
+
+contentPane ( Container )
+../../webviewer/82.jpg
+../../looseends/role4220a021002e.htm
+
+
+
+currentWindow ( DigitalWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a021005d.htm
+
+
+
+desktop ( JDesktopPane )
+../../webviewer/82.jpg
+../../looseends/role4220a02002ce.htm
+
+
+
+desktop1 ( JDesktopPane )
+../../webviewer/82.jpg
+../../looseends/role4220a020031c.htm
+
+
+
+mod_list ( ModuleListWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02003c8.htm
+
+
+
+parent ( JSplitPane )
+../../webviewer/82.jpg
+../../looseends/role4220a020036a.htm
+
+
+
+properties ( PropertiesWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a0200399.htm
+
+
+
+)
+ModuleListWindow ( ModuleListWindow )
+../../webviewer/17.jpg
+class4220a02003a8.htm
+
+
+
+(
+ModuleListWindow
+../../webviewer/34.jpg
+op4220a02c024e.htm
+
+
+
+(
+)
+getModule
+../../webviewer/34.jpg
+op4220a02c024f.htm
+
+
+
+(
+)
+addModule
+../../webviewer/34.jpg
+op4220a02c025e.htm
+
+
+
+(
+)
+main
+../../webviewer/34.jpg
+op4220a2bf0359.htm
+
+
+
+(
+)
+ModuleItem ( ModuleListWindow )
+../../webviewer/17.jpg
+class4220a02c01f5.htm
+
+
+
+(
+ModuleItem
+../../webviewer/34.jpg
+op4220a2c0003b.htm
+
+
+
+(
+)
+actionPerformed
+../../webviewer/34.jpg
+op4220a2c0004a.htm
+
+
+
+(
+)
+getModule
+../../webviewer/34.jpg
+op4220a2c0004c.htm
+
+
+
+(
+)
+theModuleListWindow ( ModuleListWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02c023f.htm
+
+
+
+module ( Module )
+../../webviewer/82.jpg
+../../looseends/role4220a02c032c.htm
+
+
+
+)
+theMDIWindow ( MDIWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02003c6.htm
+
+
+
+add ( JButton )
+../../webviewer/82.jpg
+../../looseends/role4220a02c0115.htm
+
+
+
+c ( Container )
+../../webviewer/82.jpg
+../../looseends/role4220a02c01a5.htm
+
+
+
+p2 ( Box )
+../../webviewer/82.jpg
+../../looseends/role4220a02c01f3.htm
+
+
+
+remove ( JButton )
+../../webviewer/82.jpg
+../../looseends/role4220a02c0157.htm
+
+
+
+selected ( ModuleItem )
+../../webviewer/82.jpg
+../../looseends/role4220a02c0241.htm
+
+
+
+)
+PaintTimer2 ( PaintTimer2 )
+../../webviewer/17.jpg
+class4220a02a0139.htm
+class4220a02a0139.txt
+
+
+(
+run
+../../webviewer/34.jpg
+op4220a02a0184.htm
+
+
+
+(
+)
+PaintEvent ( PaintTimer2 )
+../../webviewer/17.jpg
+class4220a02a0192.htm
+
+
+
+(
+eventDispatched
+../../webviewer/34.jpg
+op4220a2bb026d.htm
+
+
+
+(
+)
+)
+)
+PropertiesWindow ( PropertiesWindow )
+../../webviewer/17.jpg
+class4220a0200370.htm
+class4220a0200370.txt
+
+
+(
+PropertiesWindow
+../../webviewer/34.jpg
+op4220a02701e6.htm
+
+
+
+(
+)
+init
+../../webviewer/36.jpg
+op4220a02701f0.htm
+
+
+
+(
+)
+update
+../../webviewer/34.jpg
+op4220a02701f1.htm
+
+
+
+(
+)
+theMDIWindow ( MDIWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a0200397.htm
+
+
+
+freq ( FreqencySpinButton )
+../../webviewer/82.jpg
+../../looseends/role4220a02701e4.htm
+
+
+
+input ( InputOutputSpinButton )
+../../webviewer/82.jpg
+../../looseends/role4220a02700ab.htm
+
+
+
+label ( DigitalTextBox )
+../../webviewer/82.jpg
+../../looseends/role4220a0270147.htm
+
+
+
+name ( JLabel )
+../../webviewer/82.jpg
+../../looseends/role4220a0270195.htm
+
+
+
+output ( InputOutputSpinButton )
+../../webviewer/82.jpg
+../../looseends/role4220a02700f9.htm
+
+
+
+)
+PropertiesWindow1 ( PropertiesWindow1 )
+../../webviewer/17.jpg
+class4220a0280281.htm
+class4220a0280281.txt
+
+
+(
+PropertiesWindow1
+../../webviewer/34.jpg
+op4220a029001b.htm
+
+
+
+(
+)
+update
+../../webviewer/34.jpg
+op4220a029001c.htm
+
+
+
+(
+)
+frequency ( DigitalSpinner )
+../../webviewer/82.jpg
+../../looseends/role4220a02803a9.htm
+
+
+
+inputs ( DigitalSpinner )
+../../webviewer/82.jpg
+../../looseends/role4220a028030c.htm
+
+
+
+name ( JLabel )
+../../webviewer/82.jpg
+../../looseends/role4220a029000f.htm
+
+
+
+outputs ( DigitalSpinner )
+../../webviewer/82.jpg
+../../looseends/role4220a028035b.htm
+
+
+
+)
+TruthTableFrame ( TruthTableFrame )
+../../webviewer/17.jpg
+class4220a02b0183.htm
+class4220a02b0183.txt
+
+
+(
+TruthTableFrame
+../../webviewer/34.jpg
+op4220a02b0214.htm
+
+
+
+(
+)
+pane ( Container )
+../../webviewer/82.jpg
+../../looseends/role4220a02b0212.htm
+
+
+
+)
+Associations
+../../webviewer/assoccat.gif
+
+
+
+
+(
+Association (mouse:MouseSensorAction) (theDrawingPad:DrawingPad)
+../../webviewer/81.jpg
+../../looseends/ass4220a019001b.htm
+
+
+
+(
+MouseSensorAction ( mouse )
+../../webviewer/82.jpg
+../../looseends/role4220a019001c.htm
+
+
+
+DrawingPad ( theDrawingPad )
+../../webviewer/82.jpg
+../../looseends/role4220a019001e.htm
+
+
+
+)
+Association (current:DigitalShape) (theDrawingPad:DrawingPad)
+../../webviewer/81.jpg
+../../looseends/ass4220a019005a.htm
+
+
+
+(
+DigitalShape ( current )
+../../webviewer/82.jpg
+../../looseends/role4220a019005b.htm
+
+
+
+DrawingPad ( theDrawingPad )
+../../webviewer/82.jpg
+../../looseends/role4220a019005d.htm
+
+
+
+)
+Association (fnt:Font) (theDrawingPad:DrawingPad)
+../../webviewer/81.jpg
+../../looseends/ass4220a01900a8.htm
+
+
+
+(
+Font ( fnt )
+../../webviewer/82.jpg
+../../looseends/role4220a01900a9.htm
+
+
+
+DrawingPad ( theDrawingPad )
+../../webviewer/82.jpg
+../../looseends/role4220a01900ab.htm
+
+
+
+)
+Association (bimg:BufferedImage) (theDrawingPad:DrawingPad)
+../../webviewer/81.jpg
+../../looseends/ass4220a01900f6.htm
+
+
+
+(
+BufferedImage ( bimg )
+../../webviewer/82.jpg
+../../looseends/role4220a01900f7.htm
+
+
+
+DrawingPad ( theDrawingPad )
+../../webviewer/82.jpg
+../../looseends/role4220a01900f9.htm
+
+
+
+)
+Association (circuit:DigitalCircuit) (theDrawingPad:DrawingPad)
+../../webviewer/81.jpg
+../../looseends/ass4220a0190125.htm
+
+
+
+(
+DigitalCircuit ( circuit )
+../../webviewer/82.jpg
+../../looseends/role4220a0190126.htm
+
+
+
+DrawingPad ( theDrawingPad )
+../../webviewer/82.jpg
+../../looseends/role4220a0190128.htm
+
+
+
+)
+Association (pane:Container) (theDigitalWindow:DigitalWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a01b03b5.htm
+
+
+
+(
+Container ( pane )
+../../webviewer/82.jpg
+../../looseends/role4220a01b03b6.htm
+
+
+
+DigitalWindow ( theDigitalWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a01b03b8.htm
+
+
+
+)
+Association (pad:DrawingPad) (theDigitalWindow:DigitalWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a01b03e4.htm
+
+
+
+(
+DrawingPad ( pad )
+../../webviewer/82.jpg
+../../looseends/role4220a01b03e5.htm
+
+
+
+DigitalWindow ( theDigitalWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a01c000d.htm
+
+
+
+)
+Association (desktop:JDesktopPane) (theMDIWindow:MDIWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a02002cb.htm
+
+
+
+(
+JDesktopPane ( desktop )
+../../webviewer/82.jpg
+../../looseends/role4220a02002cc.htm
+
+
+
+MDIWindow ( theMDIWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02002ce.htm
+
+
+
+)
+Association (desktop1:JDesktopPane) (theMDIWindow:MDIWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a0200319.htm
+
+
+
+(
+JDesktopPane ( desktop1 )
+../../webviewer/82.jpg
+../../looseends/role4220a020031a.htm
+
+
+
+MDIWindow ( theMDIWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a020031c.htm
+
+
+
+)
+Association (parent:JSplitPane) (theMDIWindow:MDIWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a0200367.htm
+
+
+
+(
+JSplitPane ( parent )
+../../webviewer/82.jpg
+../../looseends/role4220a0200368.htm
+
+
+
+MDIWindow ( theMDIWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a020036a.htm
+
+
+
+)
+Association (properties:PropertiesWindow) (theMDIWindow:MDIWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a0200396.htm
+
+
+
+(
+PropertiesWindow ( properties )
+../../webviewer/82.jpg
+../../looseends/role4220a0200397.htm
+
+
+
+MDIWindow ( theMDIWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a0200399.htm
+
+
+
+)
+Association (mod_list:ModuleListWindow) (theMDIWindow:MDIWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a02003c5.htm
+
+
+
+(
+ModuleListWindow ( mod_list )
+../../webviewer/82.jpg
+../../looseends/role4220a02003c6.htm
+
+
+
+MDIWindow ( theMDIWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02003c8.htm
+
+
+
+)
+Association (contentPane:Container) (theMDIWindow:MDIWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a021002b.htm
+
+
+
+(
+Container ( contentPane )
+../../webviewer/82.jpg
+../../looseends/role4220a021002c.htm
+
+
+
+MDIWindow ( theMDIWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a021002e.htm
+
+
+
+)
+Association (currentWindow:DigitalWindow) (theMDIWindow:MDIWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a021005a.htm
+
+
+
+(
+DigitalWindow ( currentWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a021005b.htm
+
+
+
+MDIWindow ( theMDIWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a021005d.htm
+
+
+
+)
+Association (input:InputOutputSpinButton) (thePropertiesWindow:PropertiesWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a02700a8.htm
+
+
+
+(
+InputOutputSpinButton ( input )
+../../webviewer/82.jpg
+../../looseends/role4220a02700a9.htm
+
+
+
+PropertiesWindow ( thePropertiesWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02700ab.htm
+
+
+
+)
+Association (output:InputOutputSpinButton) (thePropertiesWindow:PropertiesWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a02700f6.htm
+
+
+
+(
+InputOutputSpinButton ( output )
+../../webviewer/82.jpg
+../../looseends/role4220a02700f7.htm
+
+
+
+PropertiesWindow ( thePropertiesWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02700f9.htm
+
+
+
+)
+Association (label:DigitalTextBox) (thePropertiesWindow:PropertiesWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a0270144.htm
+
+
+
+(
+DigitalTextBox ( label )
+../../webviewer/82.jpg
+../../looseends/role4220a0270145.htm
+
+
+
+PropertiesWindow ( thePropertiesWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a0270147.htm
+
+
+
+)
+Association (name:JLabel) (thePropertiesWindow:PropertiesWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a0270192.htm
+
+
+
+(
+JLabel ( name )
+../../webviewer/82.jpg
+../../looseends/role4220a0270193.htm
+
+
+
+PropertiesWindow ( thePropertiesWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a0270195.htm
+
+
+
+)
+Association (freq:FreqencySpinButton) (thePropertiesWindow:PropertiesWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a02701e1.htm
+
+
+
+(
+FreqencySpinButton ( freq )
+../../webviewer/82.jpg
+../../looseends/role4220a02701e2.htm
+
+
+
+PropertiesWindow ( thePropertiesWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02701e4.htm
+
+
+
+)
+Association (gate:Clock) (theFreqencySpinButton:FreqencySpinButton)
+../../webviewer/81.jpg
+../../looseends/ass4220a02702bb.htm
+
+
+
+(
+Clock ( gate )
+../../webviewer/82.jpg
+../../looseends/role4220a02702bc.htm
+
+
+
+FreqencySpinButton ( theFreqencySpinButton )
+../../webviewer/82.jpg
+../../looseends/role4220a02702be.htm
+
+
+
+)
+Association (gate:Gate) (theInputOutputSpinButton:InputOutputSpinButton)
+../../webviewer/81.jpg
+../../looseends/ass4220a0270396.htm
+
+
+
+(
+Gate ( gate )
+../../webviewer/82.jpg
+../../looseends/role4220a0270397.htm
+
+
+
+InputOutputSpinButton ( theInputOutputSpinButton )
+../../webviewer/82.jpg
+../../looseends/role4220a02703a7.htm
+
+
+
+)
+Association (object:Properties) (theDigitalTextBox:DigitalTextBox)
+../../webviewer/81.jpg
+../../looseends/ass4220a02800b8.htm
+
+
+
+(
+Properties ( object )
+../../webviewer/82.jpg
+../../looseends/role4220a02800b9.htm
+
+
+
+DigitalTextBox ( theDigitalTextBox )
+../../webviewer/82.jpg
+../../looseends/role4220a02800bb.htm
+
+
+
+)
+Association (inputs:DigitalSpinner) (thePropertiesWindow1:PropertiesWindow1)
+../../webviewer/81.jpg
+../../looseends/ass4220a0280309.htm
+
+
+
+(
+DigitalSpinner ( inputs )
+../../webviewer/82.jpg
+../../looseends/role4220a028030a.htm
+
+
+
+PropertiesWindow1 ( thePropertiesWindow1 )
+../../webviewer/82.jpg
+../../looseends/role4220a028030c.htm
+
+
+
+)
+Association (outputs:DigitalSpinner) (thePropertiesWindow1:PropertiesWindow1)
+../../webviewer/81.jpg
+../../looseends/ass4220a0280358.htm
+
+
+
+(
+DigitalSpinner ( outputs )
+../../webviewer/82.jpg
+../../looseends/role4220a0280359.htm
+
+
+
+PropertiesWindow1 ( thePropertiesWindow1 )
+../../webviewer/82.jpg
+../../looseends/role4220a028035b.htm
+
+
+
+)
+Association (frequency:DigitalSpinner) (thePropertiesWindow1:PropertiesWindow1)
+../../webviewer/81.jpg
+../../looseends/ass4220a02803a6.htm
+
+
+
+(
+DigitalSpinner ( frequency )
+../../webviewer/82.jpg
+../../looseends/role4220a02803a7.htm
+
+
+
+PropertiesWindow1 ( thePropertiesWindow1 )
+../../webviewer/82.jpg
+../../looseends/role4220a02803a9.htm
+
+
+
+)
+Association (name:JLabel) (thePropertiesWindow1:PropertiesWindow1)
+../../webviewer/81.jpg
+../../looseends/ass4220a029000c.htm
+
+
+
+(
+JLabel ( name )
+../../webviewer/82.jpg
+../../looseends/role4220a029000d.htm
+
+
+
+PropertiesWindow1 ( thePropertiesWindow1 )
+../../webviewer/82.jpg
+../../looseends/role4220a029000f.htm
+
+
+
+)
+Association (current:Gate) (theDigitalSpinner:DigitalSpinner)
+../../webviewer/81.jpg
+../../looseends/ass4220a02900d7.htm
+
+
+
+(
+Gate ( current )
+../../webviewer/82.jpg
+../../looseends/role4220a02900d8.htm
+
+
+
+DigitalSpinner ( theDigitalSpinner )
+../../webviewer/82.jpg
+../../looseends/role4220a02900e8.htm
+
+
+
+)
+Association (pane:Container) (theTruthTableFrame:TruthTableFrame)
+../../webviewer/81.jpg
+../../looseends/ass4220a02b020f.htm
+
+
+
+(
+Container ( pane )
+../../webviewer/82.jpg
+../../looseends/role4220a02b0210.htm
+
+
+
+TruthTableFrame ( theTruthTableFrame )
+../../webviewer/82.jpg
+../../looseends/role4220a02b0212.htm
+
+
+
+)
+Association (add:JButton) (theModuleListWindow:ModuleListWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a02c0106.htm
+
+
+
+(
+JButton ( add )
+../../webviewer/82.jpg
+../../looseends/role4220a02c0107.htm
+
+
+
+ModuleListWindow ( theModuleListWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02c0115.htm
+
+
+
+)
+Association (remove:JButton) (theModuleListWindow:ModuleListWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a02c0154.htm
+
+
+
+(
+JButton ( remove )
+../../webviewer/82.jpg
+../../looseends/role4220a02c0155.htm
+
+
+
+ModuleListWindow ( theModuleListWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02c0157.htm
+
+
+
+)
+Association (c:Container) (theModuleListWindow:ModuleListWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a02c01a2.htm
+
+
+
+(
+Container ( c )
+../../webviewer/82.jpg
+../../looseends/role4220a02c01a3.htm
+
+
+
+ModuleListWindow ( theModuleListWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02c01a5.htm
+
+
+
+)
+Association (p2:Box) (theModuleListWindow:ModuleListWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a02c01f0.htm
+
+
+
+(
+Box ( p2 )
+../../webviewer/82.jpg
+../../looseends/role4220a02c01f1.htm
+
+
+
+ModuleListWindow ( theModuleListWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02c01f3.htm
+
+
+
+)
+Association (selected:ModuleItem) (theModuleListWindow:ModuleListWindow)
+../../webviewer/81.jpg
+../../looseends/ass4220a02c023e.htm
+
+
+
+(
+ModuleItem ( selected )
+../../webviewer/82.jpg
+../../looseends/role4220a02c023f.htm
+
+
+
+ModuleListWindow ( theModuleListWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a02c0241.htm
+
+
+
+)
+Association (module:Module) (theModuleItem:ModuleItem)
+../../webviewer/81.jpg
+../../looseends/ass4220a02c0329.htm
+
+
+
+(
+Module ( module )
+../../webviewer/82.jpg
+../../looseends/role4220a02c032a.htm
+
+
+
+ModuleItem ( theModuleItem )
+../../webviewer/82.jpg
+../../looseends/role4220a02c032c.htm
+
+
+
+)
+)

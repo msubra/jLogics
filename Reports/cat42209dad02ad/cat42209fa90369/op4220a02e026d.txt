@@ -1,0 +1,6 @@
+CTRL + Gate => DELETE Object 
+CTRL + Node => DELETE Connections 
+SHIFT => Start Moving Object 
+CLICK ON NODE => Start connecting objects
+else No Action
+

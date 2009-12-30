@@ -1,0 +1,4 @@
+specifies the parameters for the shape of the digitalcircuits
+@param width
+@param height
+

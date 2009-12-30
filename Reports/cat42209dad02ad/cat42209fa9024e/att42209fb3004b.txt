@@ -1,0 +1,10 @@
+private static final String FONT_NAME = "Lucida Console";
+private static final String FONT_NAME = "TSCu_Paranar";
+private static final String FONT_NAME = "TSCu_Comic";
+private static final String FONT_NAME = "TSCu_Paranar Bold";
+private static final String FONT_NAME = "TSCu_Times";
+private static final String FONT_NAME = "SooriyanDotCom";
+private static final String FONT_NAME = "TSCuthamba";
+private static final String FONT_NAME = "aVarangal";
+private static final String FONT_NAME = "TSCu_RAvaNan";
+private static final String FONT_NAME = "TSCu_sivAji";

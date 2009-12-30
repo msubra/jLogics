@@ -1,0 +1,4 @@
+Sets the object.
+@param object
+The object to set
+

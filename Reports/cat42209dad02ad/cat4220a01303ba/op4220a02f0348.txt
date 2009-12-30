@@ -1,0 +1,3 @@
+represents what type of Gate or any user defined Circuit
+@return
+

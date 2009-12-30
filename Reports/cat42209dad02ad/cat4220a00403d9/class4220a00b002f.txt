@@ -1,0 +1,5 @@
+@author maheshexp
+TODO To change the template for this generated type comment go to Window -
+Preferences - Java - Code Style - Code Templates
+This class is used to create a mouse sensor, which is used to drag/move the
+whole circuit

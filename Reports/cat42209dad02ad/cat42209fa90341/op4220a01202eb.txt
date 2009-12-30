@@ -1,0 +1,4 @@
+since it is input node, delete the connection of the FROM node, reset the
+signal
+@see shape.DigitalShape#delete()
+

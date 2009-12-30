@@ -1,0 +1,2 @@
+@return Type of the Gate
+

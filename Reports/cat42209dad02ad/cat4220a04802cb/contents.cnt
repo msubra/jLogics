@@ -1,0 +1,50 @@
+Main ( Main )
+../../webviewer/17.jpg
+class4220a04802cd.htm
+class4220a04802cd.txt
+
+
+(
+main
+../../webviewer/34.jpg
+op4220a2c00125.htm
+op4220a2c00125.txt
+
+
+(
+)
+win ( MDIWindow )
+../../webviewer/82.jpg
+../../looseends/role4220a04802fd.htm
+
+
+
+)
+Associations
+../../webviewer/assoccat.gif
+
+
+
+
+(
+Association (win:MDIWindow) (theMain:Main)
+../../webviewer/81.jpg
+../../looseends/ass4220a04802fa.htm
+
+
+
+(
+MDIWindow ( win )
+../../webviewer/82.jpg
+../../looseends/role4220a04802fb.htm
+
+
+
+Main ( theMain )
+../../webviewer/82.jpg
+../../looseends/role4220a04802fd.htm
+
+
+
+)
+)
